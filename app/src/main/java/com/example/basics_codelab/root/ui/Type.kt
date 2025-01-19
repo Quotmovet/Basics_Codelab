@@ -1,4 +1,4 @@
-package com.example.basics_codelab.ui.theme
+package com.example.basics_codelab.root.ui
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
