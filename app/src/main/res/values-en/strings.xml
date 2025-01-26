@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Basics_Codelab</string>
-    <string name="search">Search</string>
+    <string name="ab1_search">Search</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="fc2_nature_meditations">Nature meditacion</string>
+    <string name="hs1_align_your_body">Align your body</string>
+    <string name="hs2_favorite">Favorite</string>
 </resources>
